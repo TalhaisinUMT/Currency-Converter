@@ -1,3 +1,7 @@
+# Import necessary libraries
+import requests
+import gradio as gr
+
 # Correct API and header configuration
 API_URL = "https://currency-converter5.p.rapidapi.com/currency/convert"
 API_KEY = "8761e77f8amsh33186f2d032dc55p16ec2fjsn6e86a54041e5"  
